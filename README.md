@@ -30,11 +30,9 @@ A detailed project report is attached in the repository. It includes:
 - Experimental Results
 - Conclusions and Future Scope
 
-> 📎 **[Click here to view the report](./Report.pdf)** (Make sure the report is uploaded as `Report.pdf` in the root of your repository.)
+> 📎 **[Click here to view the report](./Report.pdf)**
 
 ## 📸 Sample Output
-
-*(Optional: You can add screenshots or a short demo video of your thermal images and results here)*
 
 ## 🚀 Future Scope
 
